@@ -7,5 +7,8 @@ void loadCargo(){
   cargo.add("Three calling doves");
   cargo.add("Three little pigs");
   cargo.add("Nirvana");
+  cargo.add("One freshly baked moon pie");
+  cargo.add("Two crates of moonshine");
+  cargo.add("28 boxes of mooncakes");
   cargo.add("7 crates of Photon Torpedoes");
 }

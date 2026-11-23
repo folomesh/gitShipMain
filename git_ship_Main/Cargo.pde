@@ -10,5 +10,6 @@ void loadCargo(){
   cargo.add("One freshly baked moon pie");
   cargo.add("Two crates of moonshine");
   cargo.add("28 boxes of mooncakes");
+  cargo.add("16 tons of space station scrap");
   cargo.add("7 crates of Photon Torpedoes");
 }
